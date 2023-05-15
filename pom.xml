@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.codeup</groupId>
-	<artifactId>codeup-spring-blog</artifactId>
+	<artifactId>task-manager-application</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>codeup-spring-blog</name>
-	<description>Full-Stack Spring Boot Blog Application</description>
+	<name>task-manager-application</name>
+	<description>Full-Stack Spring Boot Task Managet Application</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>
